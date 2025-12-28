@@ -145,10 +145,10 @@ dependencies = [
 ]
 
 [[package]]
-name = "easy-tree"
-version = "0.2.0"
+name = "ego-tree"
+version = "0.10.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "05fda4988f15130ba24748b5d359fcd2f588a0896b2f4c6947ce36b3f779e496"
+checksum = "b2972feb8dffe7bc8c5463b1dacda1b0dfbed3710e50f977d965429692d74cd8"
 
 [[package]]
 name = "either"
@@ -262,7 +262,7 @@ checksum = "f52b00d39961fc5b2736ea853c9cc86238e165017a493d1d5c8eac6bdc4cc273"
 name = "musicplayer"
 version = "0.1.0"
 dependencies = [
- "easy-tree",
+ "ego-tree",
  "either",
  "rodio",
 ]

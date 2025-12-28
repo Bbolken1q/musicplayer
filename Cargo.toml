@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-easy-tree = "0.2.0"
+ego-tree = "0.10.0"
 either = "1.15.0"
 rodio = "0.21.1"

@@ -1,7 +1,7 @@
 use either::Either;
 use rodio::Source;
-use core::time;
-use std::{thread, time::Duration};
+// use core::time;
+use std::{time::Duration};
 use crate::player::song_object::SongObject;
 use std::sync::{Arc, atomic::{AtomicBool, Ordering}};
 
